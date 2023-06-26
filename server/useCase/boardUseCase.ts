@@ -2,7 +2,7 @@ import type { UserId } from '$/commonTypesWithClient/branded';
 import { colorUseCase } from './colorUseCase';
 
 const board: number[][] = [
-  [0, 0, 0, 0, 0, 0, 0, 0],
+  [0, 0, 0, 1, 0, 0, 0, 0],
   [0, 0, 0, 0, 0, 0, 0, 0],
   [0, 0, 0, 0, 0, 0, 0, 0],
   [0, 0, 0, 1, 2, 0, 0, 0],
